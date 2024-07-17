@@ -1,0 +1,42 @@
+body {
+  background-color: #f4f4f4;
+}
+
+/* main {
+  background-color: #ffffff;
+  margin: auto;
+  max-width: 550px;
+  height: 450px;
+  border-radius: 0px 0px 300px 300px;
+} */
+
+.center {
+  margin: auto;
+  text-align: center;
+}
+section {
+  max-width: 550px;
+  height: 450px;
+  background-color: #ffffff;
+  border-radius: 0px 0px 300px 300px;
+}
+h2 {
+  padding-top: 200px;
+  margin: 5px;
+  font-size: 40px;
+}
+p {
+  padding: 0px;
+  margin: 0px;
+  line-height: 20px;
+}
+.lower-portion {
+  margin-top: 20px;
+}
+button {
+  margin-top: 10px;
+  width: 160px;
+  height: 50px;
+  background-color: black;
+  color: white;
+}
